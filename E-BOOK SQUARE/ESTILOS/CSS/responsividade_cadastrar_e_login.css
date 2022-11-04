@@ -1,0 +1,28 @@
+@media only screen and (max-width:1280px){
+    main{
+        transform: scale(0.8);
+    }
+}
+
+@media only screen and (max-height:600px){
+    main{
+        transform: scale(0.75);
+    }
+}
+
+@media only screen and (max-width:1000px){
+    main{
+        transform: scale(0.65);
+    }
+}
+@media only screen and (max-width:818px){
+    .imagem_lado{
+        display: none;
+    }
+}
+@media only screen and (max-width:412px){
+    main{
+        transform: scale(0.55);
+    }
+   
+}
